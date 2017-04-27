@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang=zh-Hant>
+
+<head>
+    <meta charset=utf-8>
+    <meta http-equiv=X-UA-Compatible content="IE=edge">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta name=description content="">
+    <meta name=author content="">
+    <title>Dialog Test</title>
+    <!-- jQ JS-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- jQ UI JS and CSS-->
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+    <!-- My JS and CSS-->
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" href="main.css">
+
+</head>
+<body>
+    <div class="box">
+        <div class="circle"></div>
+        <div class="circle color1"></div>
+        <div class="circle color2"></div>
+        <div class="circle color3"></div>
+        <div class="circle color4"></div>
+    </div>
+    <!-- dialog本身 內容在標籤Ｐ裡 -->
+    <div id="dialog">
+        <!-- 左半邊 放圖片 可用slick -->
+        <div class="photo">
+            <div class="big"></div>
+            <div class="sycingbar"></div>
+        </div>
+        <!-- End left part -->
+        <!-- Begin right part -->
+        <div class="detail">
+            <ul id="proddes">Product Description
+                <li id="pattern">Product No.</li>
+                <li id="category">Category:</li>
+                <li id="sizerun">Size:</li>
+                <li>Color and No.
+                    <table>
+                        <tr>
+                            <th></th>
+                            <th width="80px">Color</th>
+                            <th>Prod No.</th>
+                        </tr>
+                        <tbody id="colorlist"></tbody>
+                    </table>
+                </li>
+            </ul>
+        </div>
+        <!-- End right part -->
+    </div>
+</body>
+</html>

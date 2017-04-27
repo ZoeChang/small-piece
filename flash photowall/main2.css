@@ -1,0 +1,32 @@
+body{
+    background: black;
+}
+.photowall{
+    height: 1000px;
+    width: 800px;
+    padding: 40px;
+}
+
+.photobox{
+    height: 100px;
+    width: 100px;
+    background: rgba(226, 226, 226, 0.42);
+    border-radius: 5px;
+    margin: 3px 2px;
+    display: inline-block;
+    transition: 0.5s;
+    color: black;
+}
+
+.colorbox{
+    background: darkred;
+}
+
+.boxslip{
+    opacity:0.5 ;
+}
+
+
+.your-class{
+    color: bisque;
+}
