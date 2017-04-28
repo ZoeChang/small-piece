@@ -15,7 +15,7 @@ As a new web frontend designer with rationality, having a lively interest in web
 ★ ★ ★ ★ ☆ Project management and Multicultural communication  
 
 |★ ★ ★ ☆ ☆|Design and Code -|
-|---|:---|
+|-|---|
 |row1text1|row1text3|
 |row2text1|row2text3|
   
