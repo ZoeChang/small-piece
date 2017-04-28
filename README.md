@@ -16,7 +16,7 @@ As a new web frontend designer with rationality, having a lively interest in web
 
 |:star::star::star:☆☆|Design and Code - HTML5, CSS, Javascript, Bootstrap and jQuery|
 |-|-------------|
-|:full_moon::full_moon:|Planning and Document processing|
+|:full_moon::full_moon::new_moon::new_moon::new_moon:|Planning and Document processing|
 |:o::o::o:|Project management and Multicultural communication|
   
 ### Work Experience
