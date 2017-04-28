@@ -9,15 +9,10 @@ As a new web frontend designer with rationality, having a lively interest in web
   
   
 ### Skills
-★ ★ ★ ☆ ☆ Design and Code -  
+&nbsp;&nbsp;&nbsp;&nbsp;:star::star::star: Design and Code -  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS, Javascript, Bootstrap and jQuery  
-★ ★ ★ ★ ★ Planning and Document processing  
-:star::star::star::star:☆ Project management and Multicultural communication  
-
-|:star::star::star:☆☆|Design and Code - HTML5, CSS, Javascript, Bootstrap and jQuery|
-|-|-------------|
-|:full_moon::full_moon::new_moon::new_moon::new_moon:|Planning and Document processing|
-|:o::o::o:|Project management and Multicultural communication|
+:star::star::star::star::star: Planning and Document processing  
+&nbsp;&nbsp;:star::star::star::star: Project management and Multicultural communication  
   
 ### Work Experience
 **Overseas Global Sales**, *Pou Chen Group in Guangzhou China and Chittagong Bangladesh, 2014.07-2016.03*
