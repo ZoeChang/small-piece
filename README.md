@@ -16,7 +16,8 @@ As a new web frontend designer with rationality, having a lively interest in web
 
 |★ ★ ★ ☆ ☆|Design and Code -|
 |-|---|
-|row1text1|row1text3|
+|★ ★ ★ ★ ★|Planning and Document processing|
+|-|---|
 |row2text1|row2text3|
   
 ### Work Experience
