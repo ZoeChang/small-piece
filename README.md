@@ -10,7 +10,7 @@ As a new web frontend designer with rationality, having a lively interest in web
   
 ### Skills
 &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star: Design and Code -  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS, Javascript, Bootstrap and jQuery  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS, Javascript, Bootstrap and jQuery  
 :star::star::star::star::star: Planning and Document processing  
 &nbsp;&nbsp;:star::star::star::star: Project management and Multicultural communication  
   
@@ -27,12 +27,8 @@ As a new web frontend designer with rationality, having a lively interest in web
   
 ### Education
 B.A.,Civil Engineering, 2008, National Cheng Kung University, Tainei
-
-|head1|head2|head3|head4|
-|---|:---|:---:|---:|
-|row1text1|row1text3|row1text3|row1text4|
-|row2text1|row2text3|row2text3|row2text4|
-
+  
+  
 ### Others
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
