@@ -41,26 +41,25 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Who I am
 
-兼具理性與任性的新晉網頁設計師，對網頁設計非常感興趣，自學1年，會使用HTML5, CSS, Javascript, Bootstrap 及 jQuery，具有簡單的網頁製作經驗。經歷一年多的跨文化團隊洗禮後，決定專注為自己想做的事全力以赴，持續狂奔在網頁設計Code的道路上。
-
-As a new web frontend designer with pursuing my own way, having a lively interest in web design, self-learn for one year, be good at HTML5, CSS, Javascript, Bootstrap and jQuery with some experience. After a baptism of fire through cross-culture team work, decide to pursue my own way to design and code website with heart and soul.
+As a new web frontend designer with rationality, having a lively interest in web design and some web design experience, self-learn for one year, be good at HTML5, CSS, Javascript, Bootstrap and jQuery. After a baptism of fire through cross-culture team work, decide to pursue my own way to design and code website with heart and soul.
 
 ### Quick View
 
 ### Skills
-● ● ● ○ ○
-● ● ● ● ○
+● ● ● ○ ○ Design and Code - HTML5, CSS, Javascript, Bootstrap and jQuery
+● ● ● ● ○ Planning and Document processing
+● ● ● ● ○ Teamwork - Project management and Multicultural communicate
 
 ### Work Experience
 
-國外業務 寶成國際集團海外幹部 in 中國廣州 與 孟加拉吉大港  — 2006–2008
-客戶關係維持(香港辦公室與當地駐廠客戶)與進出口貿易流程
-參與部門管理與多項專案：ERP系統改良(ERP系統推行與在地化)，IT合理化(工廠管理系統化)等等。
+Overseas Global Sales, Pou Chen Group in Guangzhou China and Chittagong Bangladesh, 2014.07-2016.03.
+- Customer relationship maintainance(with Timberland Hongkong office and resident manager in China and Bangladesh).
+- Familiar with export/import trade process.
+- Join department management and projects, promote ERP systems in localization and and improve IT systems,etc.
 
-結構設計師 張建築師事務所 in 高雄 — 2006–2008
-大型工廠結構設計
-帶領小團隊建築與結構法規檢討。
-
+Structure designer, Chang Architect Office in Kaohsiung, 2012.07-2014.06
+- Factory building structure design.
+- Lead team of building and structure regulations.
 
 ### Education
 國立成功大學土木系學士 — 2006–2008
