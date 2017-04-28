@@ -57,14 +57,14 @@ As a new web frontend designer with rationality, having a lively interest in web
 
 ### Work Experience
 
-Overseas Global Sales, Pou Chen Group in Guangzhou China and Chittagong Bangladesh, 2014.07-2016.03.
-- Customer relationship maintainance(with Timberland Hongkong office and resident manager in China and Bangladesh).
-- Familiar with export/import trade process.
-- Join department management and projects, promote ERP systems in localization and and improve IT systems,etc.
+**Overseas Global Sales**, *Pou Chen Group in Guangzhou China and Chittagong Bangladesh, 2014.07-2016.03*
+> - Customer relationship maintainance(with Timberland Hongkong office and resident manager in China and Bangladesh).
+> - Familiar with export/import trade process.
+> - Join department management and projects, promote ERP systems in localization and and improve IT systems,etc.
 
-Structure designer, Chang Architect Office in Kaohsiung, 2012.07-2014.06
-- Factory building structure design.
-- Lead team of building and structure regulations.
+**Structure designer**, *Chang Architect Office in Kaohsiung, 2012.07-2014.06*
+> - Factory building structure design.
+> - Lead team of building and structure regulations.
 
 
 ### Education
