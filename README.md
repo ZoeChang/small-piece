@@ -9,12 +9,12 @@ As a new web frontend designer with rationality, having a lively interest in web
   
   
 ### Skills
-★ ★ ★ ☆ ☆ Design and Code -  
+★ ★ ★ ☆ ☆ `Design and Code -`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS, Javascript, Bootstrap and jQuery  
-★ ★ ★ ★ ★ Planning and Document processing  
-★ ★ ★ ★ ☆ Project management and Multicultural communication  
+★ ★ ★ ★ ★ `Planning and Document processing`  
+★ ★ ★ ★ ☆ `Project management and Multicultural communication`  
 
-|★ ★ ★ ☆ ☆|Design and Code - HTML5, CSS, Javascript, Bootstrap and jQuery|
+|:star: :star: :star: ☆ ☆|Design and Code - HTML5, CSS, Javascript, Bootstrap and jQuery|
 |-|-------------|
 |★ ★ ★ ★ ★|Planning and Document processing|
 |★ ★ ★ ★ ☆|Project management and Multicultural communication|
