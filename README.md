@@ -43,9 +43,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 兼具理性與任性的新晉網頁設計師，對網頁設計非常感興趣，自學1年，會使用HTML5, CSS, Javascript, Bootstrap 及 jQuery，具有簡單的網頁製作經驗。經歷一年多的跨文化團隊洗禮後，決定專注為自己想做的事全力以赴，持續狂奔在網頁設計Code的道路上。
 
+As a new web frontend designer with pursuing my own way, having a lively interest in web design, self-learn for one year, be good at HTML5, CSS, Javascript, Bootstrap and jQuery with some experience. After a baptism of fire through cross-culture team work, decide to pursue my own way to design and code website with heart and soul.
+
 ### Quick View
 
 ### Skills
+● ● ● ○ ○
+● ● ● ● ○
 
 ### Work Experience
 
