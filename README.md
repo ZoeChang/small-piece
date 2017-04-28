@@ -43,12 +43,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 As a new web frontend designer with rationality, having a lively interest in web design and some web design experience, self-learn for one year, be good at HTML5, CSS, Javascript, Bootstrap and jQuery. After a baptism of fire through cross-culture team work, decide to pursue my own way to design and code website with heart and soul.
 
+
 ### Quick View
 
+
 ### Skills
-● ● ● ○ ○ Design and Code - HTML5, CSS, Javascript, Bootstrap and jQuery  
-● ● ● ● ○ Planning and Document processing  
-● ● ● ● ○ Teamwork - Project management and Multicultural communicate  
+★ ★ ★ ☆ ☆  Design and Code - HTML5, CSS, Javascript, Bootstrap and jQuery  
+★ ★ ★ ★ ☆  Planning and Document processing  
+★ ★ ★ ★ ☆  Teamwork - Project management and Multicultural communication  
+
 
 ### Work Experience
 
@@ -60,6 +63,7 @@ Overseas Global Sales, Pou Chen Group in Guangzhou China and Chittagong Banglade
 Structure designer, Chang Architect Office in Kaohsiung, 2012.07-2014.06
 - Factory building structure design.
 - Lead team of building and structure regulations.
+
 
 ### Education
 國立成功大學土木系學士 — 2006–2008
