@@ -16,8 +16,8 @@ As a new web frontend designer with rationality, having a lively interest in web
 
 |:star::star::star:☆☆|Design and Code - HTML5, CSS, Javascript, Bootstrap and jQuery|
 |-|-------------|
-|★★★★★|Planning and Document processing|
-|★ ★ ★ ★ ☆|Project management and Multicultural communication|
+|:full_moon::full_moon:|Planning and Document processing|
+|:o::o::o:|Project management and Multicultural communication|
   
 ### Work Experience
 **Overseas Global Sales**, *Pou Chen Group in Guangzhou China and Chittagong Bangladesh, 2014.07-2016.03*
