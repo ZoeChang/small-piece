@@ -49,10 +49,10 @@ As a new web frontend designer with rationality, having a lively interest in web
 
 ### Skills
 ★ ★ ★ ☆ ☆ Design and Code -  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS, Javascript, Bootstrap and jQuery  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS, Javascript, Bootstrap and jQuery  
 ★ ★ ★ ★ ★ Planning and Document processing  
 ★ ★ ★ ★ ☆ Teamwork -  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project management and Multicultural communication  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project management and Multicultural communication  
 
 
 ### Work Experience
