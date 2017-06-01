@@ -9,7 +9,7 @@ As a new web frontend designer with rationality, having a lively interest in web
 **Build RWD web by Bootstrap and jQuery**-
 [click me](https://zoechang.github.io/small-piece/collection/clothes/page/index.html)
  
-![Image of case](/images/case1.png)
+![Image of case](/image/case1.png)
   
 ### Skills
 &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star: Design and Code -  
