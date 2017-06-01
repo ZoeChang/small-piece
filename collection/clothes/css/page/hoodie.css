@@ -1,0 +1,9 @@
+/* board */
+.board{
+    background-image: url(../../data/hoodie/board/bg.png);
+}
+
+.owl-header-text{
+    background: rgba(243, 207, 85, 0.8);
+}
+

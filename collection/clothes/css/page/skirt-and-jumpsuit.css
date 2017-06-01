@@ -1,0 +1,8 @@
+/* board */
+.board{
+    background-image: url(../../data/bg.png)
+}
+.owl-header-text{
+    background: rgba(59, 96, 115, 0.65);
+}
+
