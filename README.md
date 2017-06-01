@@ -6,7 +6,7 @@ As a new web frontend designer with rationality, having a lively interest in web
   
   
 ### Quick View
-  
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
   
 ### Skills
 &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star: Design and Code -  
