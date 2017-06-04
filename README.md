@@ -1,4 +1,4 @@
-## Let's start
+## Hello!!
 
 ### Who I am
 
@@ -7,13 +7,13 @@ As a new web frontend designer with rationality, having a lively interest in web
   
 ### Quick View
 **Build RWD web by Bootstrap and jQuery**-
-[click me to look DEMO](https://zoechang.github.io/small-piece/collection/clothes/page/index.html)
+[click me(DEMO version)](https://zoechang.github.io/small-piece/collection/clothes/page/index.html)
  
 ![Image of DEMO](/image/case1.png)
   
 ### Skills
 &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star: Design and Code -  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS, Javascript, Bootstrap and jQuery  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Photoshop, HTML5, CSS, Javascript, Bootstrap and jQuery  
 :star::star::star::star::star: Planning and Document processing  
 &nbsp;&nbsp;:star::star::star::star: Project management and Multicultural communication  
   
@@ -29,10 +29,14 @@ As a new web frontend designer with rationality, having a lively interest in web
   
   
 ### Education
-B.A.,Civil Engineering, 2008, National Cheng Kung University, Tainei
+B.A.,Civil Engineering, 2008, National Cheng Kung University, Tainei.
   
   
 ### Others
+Some footprints on my way.
+[Dialog with $.getJSON](https://zoechang.github.io/small-piece/collection/dialog-with-filereader/index.html)
+[Funny design](https://zoechang.github.io/small-piece/collection/funny-design/index.html)
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZoeChang/small-piece/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
