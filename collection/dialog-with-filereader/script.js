@@ -47,10 +47,10 @@ $(function() {
             };
             
             //r
-            var i = 0;
-            while(Pattern[i] == circleId){
-                  
-            };
+//            var i = 0;
+//            while(Pattern[i] == circleId){
+//                  
+//            };
                   
 
             //只列出id與pattern相同之colorlist

@@ -33,10 +33,6 @@ B.A.,Civil Engineering, 2008, National Cheng Kung University, Tainei.
   
   
 ### Others
-Some footprints on my way.
-[Dialog with $.getJSON](https://zoechang.github.io/small-piece/collection/dialog-with-filereader/index.html)
+Some footprints on my way.  
+[Dialog with $.getJSON](https://zoechang.github.io/small-piece/collection/dialog-with-filereader/index.html)  
 [Funny design](https://zoechang.github.io/small-piece/collection/funny-design/index.html)
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZoeChang/small-piece/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
