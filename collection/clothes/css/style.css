@@ -39,7 +39,8 @@ body{
     font-size: 50px;
     letter-spacing: 0px;
     color: #000;
-    margin: 45% 0 0 20%; 
+    margin: 45% 0 0 20%;
+    padding: 0 20px 0;
 }
 
 .board-img{
@@ -159,7 +160,7 @@ body{
 
 /*Footer Setting*/
 .footer{
-    padding: 10px 5px 45px 5px;
+    padding: 40px 5px 45px 5px;
     margin: 50px 0 0;
     color: rgb(37, 72, 93);
     background: rgb(240,205,91);

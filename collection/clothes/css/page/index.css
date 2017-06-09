@@ -71,9 +71,6 @@
     width: 100%;
     height: 100%;
     background: rgb(93,141,170);
-    color: #fff;
-    text-align: center;
-    line-height: 150px;;
 }
 
 .showupsensor:hover img{
@@ -88,12 +85,7 @@
     padding: 35% 0;
 }
 
-.img-block .disabled::before{
-    content: '';
-    display: inline-block;
-    
-    width: 100%;
-    height: 100%;
-
-    background-color: rgba(93, 141, 170, 0.55);   
+.disabled{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 35px;
 }
