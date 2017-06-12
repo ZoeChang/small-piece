@@ -46,7 +46,7 @@ $(function() {
 
             };
             
-            //r
+            //for all li items can change
 //            var i = 0;
 //            while(Pattern[i] == circleId){
 //                  
