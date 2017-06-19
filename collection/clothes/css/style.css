@@ -44,7 +44,7 @@ nav{
 
 /*以下為各類別board setting*/
 .owl-header-text{
-/*    font-size: 50px;*/
+    font-size: 3vw;
     letter-spacing: 0px;
     color: #000;
     margin: 45% 0 0 20%;
@@ -107,6 +107,10 @@ nav{
     cursor: pointer;
 }
 /*以上為各類別full length*/
+
+.main{
+    margin-top: 70px; 
+}
 
 /*以下為dialog ui設定*/
 /*Tittle bar*/
