@@ -2,7 +2,7 @@
 
 ### Who I am
 
-As a new web frontend designer with rationality, having a lively interest in web design and some web design experience, self-learn for one year, be good at HTML5, CSS, Javascript, Bootstrap and jQuery. After a baptism of fire through cross-culture team work, decide to pursue my own way to design and code website with heart and soul.
+As a fresh web frontend designer with rationality, having a lively interest in web design and some web design experience, self-learn for one year, be good at HTML5, CSS, Javascript, Bootstrap and jQuery. After a baptism of fire through cross-culture team work, decide to pursue my own way to design and code website with heart and soul.
   
   
 ### Quick View
