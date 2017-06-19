@@ -17,19 +17,23 @@
     display: inline-block;
     
     position: absolute;
-    left: -25%;
+    left: 50%;
     top: 25%;
 
-    width: 150%;
+    width: 100vw;
     height: 50%;
 
     background-color: rgba(93, 141, 170, 0.55);
+    z-index: 1;
+    
+    margin-left: -50vw;
 }
 .upcoming .header-text {
     width: 96%;
     position: absolute;
     top: 35%;
     left: 4%;
+    z-index: 2;
 }
 
 .upcoming .header-text p{
