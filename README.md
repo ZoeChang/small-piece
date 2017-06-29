@@ -6,6 +6,8 @@ As a fresh web frontend designer with rationality, having a lively interest in w
   
   
 ### Quick View
+**Shopping Cart**-[click me](https://zoechang.github.io/small-piece/collection/shopping-cart/index.html)
+
 **Build RWD web by Bootstrap and jQuery**-
 [click me(DEMO version)](https://zoechang.github.io/small-piece/collection/clothes/page/index.html)
  
