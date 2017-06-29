@@ -9,15 +9,17 @@ $(function () {
         for (var i = 0; i < data.length ; i++){
             
             html += "<div class=\"showcaseinner\" data-num=\"" + data[i].num + "\">";
-            html += "<img src=\"" + data[i]["photo"] + "\">";
-            html += "<div class=\"desc\">";
             html += "<div class=\"item\">" + data[i].item + "</div>";
+            html += "<img src=\"" + data[i]["photo"] + "\">";
             html += "<div class=\"price\"> USD. " + data[i].price + "</div>";
-            html += "</div>";
             html += "</div>";
         };
         
         $("#showcase").html(html);
+        
+        if(cart.length == 0){
+            $("table").hide();
+        }
     };
     
     
@@ -116,6 +118,10 @@ $(function () {
             alert("已加入購物車");
         };
         
+        if (cart.length != 0){
+            $("table").show();
+        }
+        
     });
     
     
@@ -143,9 +149,11 @@ $(function () {
             }
         }
         
-        total();
+        total(); 
         
-        
+        if(cart.length == 0){
+            $("table").hide();
+        }
     });
     
 

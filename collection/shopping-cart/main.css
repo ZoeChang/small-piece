@@ -11,14 +11,14 @@
 }
 
 .showcase{
-    width: 2000px;
+    width: 900px;
 }
 
 
 .showcaseinner{
     display: inline-block;
     width: 280px;
-    height: 300px;
+    height: 230px;
     margin: 10px;
     
     border: 1px solid #000000;
@@ -31,20 +31,20 @@
     margin-top: 10px;
 }
 
-.desc{
-    position: absolute;
-    bottom: 0px;
-    margin: 0 auto;
-}
-
 .item{
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
+    text-align: center;
 }
 
 .price{
     font-family: 'Bubbler One', sans-serif;
-    font-size: 18px;
+    font-size: 23px;
+    text-align: right;
+    font-weight: 900;
+    color: rgb(21, 39, 80);
+    margin-right: 20px;
+    margin-top: 10px;
 }
 
 #total{
