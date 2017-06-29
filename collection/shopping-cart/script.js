@@ -1,5 +1,3 @@
-
-
 $(function () {
     
     var json;
@@ -59,6 +57,8 @@ $(function () {
         for (var i = 0; i < cart.length; i++){
             total += cart[i].subtotal;
         };
+        
+        total = total.toFixed(2);
         
         $("#total").empty().text(total);
     }
