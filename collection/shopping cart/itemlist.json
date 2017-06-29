@@ -1,0 +1,72 @@
+[
+    {
+        "item":"BLACK CAP-TOE OXFORDS",
+        "num": "1", 
+        "price":"670",
+        "photo":"photo/001.jpg"
+    },
+    {
+        "item":"DRESS BOOTS",
+        "num": "2", 
+        "price":"945",
+        "photo":"photo/002.jpg"
+    },
+    {
+        "item":"CASUAL BOOTS",
+        "num": "3", 
+        "price":"349.99",
+        "photo":"photo/003.jpg"
+    },
+    {
+        "item":"DESERT BOOTS",
+        "num": "4", 
+        "price":"718",
+        "photo":"photo/004.jpg"
+    },
+    {
+        "item":"PLAIN-TOE DERBIES",
+        "num": "5", 
+        "price":"695",
+        "photo":"photo/005.jpg"
+    },
+    {
+        "item":"PENNY LOAFERS",
+        "num": "6", 
+        "price":"475",
+        "photo":"photo/006.jpg"
+    },
+    {
+        "item":"MINIMALIST SNEAKERS",
+        "num": "7", 
+        "price":"410",
+        "photo":"photo/007.jpg"
+    },
+    {
+        "item":"TECHNICAL SNEAKERS",
+        "num": "8", 
+        "price":"159",
+        "photo":"photo/008.jpg"
+    },
+    {
+        "item":"THROWBACK SNEAKERS",
+        "num": "9", 
+        "price":"65",
+        "photo":"photo/009.jpg"
+    },
+    {
+        "item":"ESPADRILLES",
+        "num": "10", 
+        "price":"42",
+        "photo":"photo/010.jpg"
+    },
+    {
+        "item":"HOUSE SLIPPERS",
+        "num": "11", 
+        "price":"69",
+        "photo":"photo/011.jpg"
+    }
+
+    
+
+    
+]

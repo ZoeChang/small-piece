@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+.scrollable{
+    border:1px solid black;
+    width:900px;
+    height:325px;
+
+    overflow: auto;
+}
+
+.showcase{
+    width: 2000px;
+}
+
+
+.showcaseinner{
+    display: inline-block;
+    width: 280px;
+    height: 300px;
+    margin: 10px;
+    
+    border: 1px solid #000000;
+    
+    position: relative;
+}
+
+.showcaseinner img{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.desc{
+    position: absolute;
+    bottom: 0px;
+    margin: 0 auto;
+}
+
+.item{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+.price{
+    font-family: 'Bubbler One', sans-serif;
+    font-size: 18px;
+}
+
+#total{
+    text-align: center;
+    color: rgb(154, 59, 27);
+}
+
+.total-text{
+    text-align: right;
+}

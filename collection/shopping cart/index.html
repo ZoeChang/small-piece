@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang=zh-Hant>
+
+<head>
+    <meta charset=utf-8>
+    <meta http-equiv=X-UA-Compatible content="IE=edge">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta name=description content="">
+    <meta name=author content="">
+    <title>Shopping Cart</title>
+    <!-- jQ JS-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+    <!-- jQ UI JS and CSS-->
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+    <!-- My JS and CSS-->
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" href="main.css">
+    
+<!--  google font  -->
+<link href="https://fonts.googleapis.com/css?family=Bubbler+One|Raleway" rel="stylesheet">
+
+</head>
+<body>
+    <div class="scrollable">
+        <div class="showcase" id="showcase"></div>
+    </div>
+    <div>Shopping List</div>
+    <table>
+    <thead>
+        <tr>
+            <th>商品名稱</th>
+            <th>價格</th>
+            <th>數量</th>
+            <th>總計</th>
+        </tr>
+    </thead>
+    <tbody id="shoppingList">
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="total-text">小計(USD)：</td>
+            <td id="total"></td>
+        </tr>
+    </tfoot>
+    </table>
+   
+</body>
+</html>
