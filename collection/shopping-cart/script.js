@@ -32,7 +32,6 @@ $(function () {
     
     var cart=[];
     
-    
     //小計
     function subtotal(id){
         // get quantity from select option
@@ -72,13 +71,12 @@ $(function () {
         
         var id = data.item.replace(/ /g, "-");
 
-             
             html += "<tr id=\"item-" + id + "\">";
+            html += "<th><button id=\"but-" + id + "\"><span class=\"ui-icon ui-icon-closethick\"></span></button></th>"
             html += "<th>" + data.item + "</th>";
             html += "<th id=\"price-" + id + "\">" + data.price + "</th>";
             html += "<th><select id=\"qu-" + id + "\"><option value=\"0\">0</option><option value=\"1\">1</option><option value=\"2\">2</option><option value=\"3\">3</option></select></th>";
             html += "<th id=\"sum-" + id + "\"></th>";
-            html += "<th><button id=\"but-" + id + "\"><span class=\"ui-icon ui-icon-closethick\"></span></button></th>"
             html += "</tr>";
         
         $("#shoppingList").append(html);
